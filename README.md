@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Pravin R 👋
 
-<!--
-**pravin090106/pravin090106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Data Analytics Fresher
 
-Here are some ideas to get you started:
+I am a B.Com CA graduate and Data Analytics trainee interested in working with data to generate meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+- Python
+- MySQL / SQL
+- Microsoft Excel
+- Power BI
+- Pandas & NumPy
+- Matplotlib
+- Data Cleaning & Data Transformation
+- Data Visualization
+- Data Modeling
+
+### Projects
+
+**1. Automated Banking Data Analytics Dashboard**
+
+- Python and MySQL based banking data analysis.
+- Data cleaning and transformation using Pandas.
+- Created four analytical reports using Matplotlib.
+- Automated report generation using Schedule.
+
+**2. Telecom Data Warehouse**
+
+- Developed a Telecom Data Warehouse using MySQL.
+- Implemented Staging, ODS, and DWH layers.
+- Designed dimension and fact tables.
+- Applied data quality checks and SCD concepts.
+
+### Contact
+
+- Email: [pravinpravin0901@gmail.com](mailto:pravinpravin0901@gmail.com)
+- GitHub: [https://github.com/pravin090106](https://github.com/pravin090106)
